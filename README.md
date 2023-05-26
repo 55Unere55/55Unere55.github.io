@@ -1,6 +1,6 @@
 # 55Unere55.github.io
 
-I have made lots of Projects and Lots of diferent Typrd of Coding like: 
+I have made lots of Projects and Lots of diferent Types of Coding like: 
 
 a Cinema site using Bootstrap 4, many different Websites, using only Html, or in Combination with Css and JavaScript.
 

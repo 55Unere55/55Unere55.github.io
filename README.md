@@ -10,4 +10,4 @@ Right now Iam on C#.
 
 So far I've learned a lot about different methods and how to connect them together. 
 
-My biggest Project so far from it is a Black Jack Game. 
+My biggest Project so far, is a Black Jack Game. 

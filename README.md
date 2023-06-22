@@ -10,4 +10,6 @@ Right now Iam on C#.
 
 So far I've learned a lot about different methods and how to connect them together. 
 
-My biggest Project so far, is a Black Jack Game. 
+My biggest Project so far, is a Black Jack Game, but it is still in developement.
+
+With C# I created too an MVC that automates a Car Insurance Companys Quote Form.
